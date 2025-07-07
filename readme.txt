@@ -16,19 +16,6 @@ Installation Steps
    pip install pandas numpy scikit-learn matplotlib torch torchcrf tensorflow keras gensim spacy sklearn-crfsuite
    ```
 
-   Alternatively, you can install them individually:
-
-   ```
-   # General Data Processing
-   pip install pandas numpy matplotlib
-
-   # Machine Learning and Deep Learning
-   pip install scikit-learn torch torchcrf tensorflow keras gensim
-
-   # NLP
-   pip install spacy sklearn-crfsuite
-   ```
-
 2. Verify Installation
    To verify that all packages are installed correctly, you can try importing them in a Python shell:
 
